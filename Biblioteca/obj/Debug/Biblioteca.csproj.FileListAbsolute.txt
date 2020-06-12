@@ -1,0 +1,6 @@
+C:\Projetos\Convert JSON to XML\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Projetos\Convert JSON to XML\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Projetos\Convert JSON to XML\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Projetos\Convert JSON to XML\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Projetos\Convert JSON to XML\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Projetos\Convert JSON to XML\Biblioteca\obj\Debug\Biblioteca.pdb

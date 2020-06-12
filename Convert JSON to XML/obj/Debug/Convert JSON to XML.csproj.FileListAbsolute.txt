@@ -1,0 +1,12 @@
+C:\Projetos\Convert JSON to XML\Convert JSON to XML\bin\Debug\Convert JSON to XML.exe.config
+C:\Projetos\Convert JSON to XML\Convert JSON to XML\bin\Debug\Convert JSON to XML.exe
+C:\Projetos\Convert JSON to XML\Convert JSON to XML\bin\Debug\Convert JSON to XML.pdb
+C:\Projetos\Convert JSON to XML\Convert JSON to XML\bin\Debug\Biblioteca.dll
+C:\Projetos\Convert JSON to XML\Convert JSON to XML\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\Convert JSON to XML\Convert JSON to XML\bin\Debug\Biblioteca.pdb
+C:\Projetos\Convert JSON to XML\Convert JSON to XML\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\Convert JSON to XML\Convert JSON to XML\obj\Debug\Convert JSON to XML.csprojAssemblyReference.cache
+C:\Projetos\Convert JSON to XML\Convert JSON to XML\obj\Debug\Convert JSON to XML.csproj.CoreCompileInputs.cache
+C:\Projetos\Convert JSON to XML\Convert JSON to XML\obj\Debug\Convert JSON to XML.csproj.CopyComplete
+C:\Projetos\Convert JSON to XML\Convert JSON to XML\obj\Debug\Convert JSON to XML.exe
+C:\Projetos\Convert JSON to XML\Convert JSON to XML\obj\Debug\Convert JSON to XML.pdb
